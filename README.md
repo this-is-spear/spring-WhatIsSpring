@@ -13,7 +13,7 @@
 7. [스프링 컨테이너](https://github.com/Imaspear/WhatIsSpring/blob/main/2021/12월/18일/스프링_컨테이너.md)
 8. [스프링 빈 조회하는 방법](https://github.com/Imaspear/WhatIsSpring/blob/main/2021/12월/18일/스프링_빈_조회하는_방법.md)
 9. [BeanDefinition](https://github.com/Imaspear/WhatIsSpring/blob/main/2021/12월/20일/BeanDefinition.md)
-10. [BeanFactory 그리고 ApplicatinoContext ](https://github.com/Imaspear/WhatIsSpring/blob/main/2021/12월/20일/BeanFactory_and_ApplicatinoContext.md)
+10. [BeanFactory 그리고 ApplicatinoContext ](https://github.com/Imaspear/WhatIsSpring/blob/main/2021/12월/20일/BeanFactory_and_ApplicationContext.md)
 <!-- 11. [](https://github.com/Imaspear/WhatIsSpring/blob/main/2021/12월/20일/Singleton_Pattern) -->
 12. [웹 애플리케이션에서 싱글톤](https://github.com/Imaspear/WhatIsSpring/blob/main/2021/12월/21일/Singleton_Container.md)
 <!-- 13. [](https://github.com/Imaspear/WhatIsSpring/blob/main/2021/12월/21일/Singleton_Pattern_Test.md) -->
