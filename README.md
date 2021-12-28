@@ -23,13 +23,13 @@
 17. [빈 중복 등록과 충돌](https://github.com/Imaspear/WhatIsSpring/blob/main/2021/12월/22일/중복_등록_충돌.md)
 18. [타입 필터해서 추가하기 또는 배제하기](https://github.com/Imaspear/WhatIsSpring/blob/main/2021/12월/22일/Filter.md)
 18. [@Autowired에서 옵션을 이용해 스프링 빈이 없어도 출력할 수 있는 방법](https://github.com/Imaspear/WhatIsSpring/blob/main/2021/12월/22일/Option.md)
-19. [조회할 빈이 두 개일 때,](https://github.com/Imaspear/WhatIsSpring/blob/main/2021/12월/23일/조회할빈이두개일때.mc) -->
+19. [조회할 빈이 두 개일 때](https://github.com/Imaspear/WhatIsSpring/blob/main/2021/12월/23일/조회할빈이두개일때.md)
 20. [빈 생명 주기](https://github.com/Imaspear/WhatIsSpring/blob/main/2021/12월/24일/빈생명주기.md)
 21. [빈 스코프](https://github.com/Imaspear/WhatIsSpring/blob/main/2021/12월/24일/빈스코프.md)
 22. [웹 스코프](https://github.com/Imaspear/WhatIsSpring/blob/main/2021/12월/26일/웹스코프.md)
 23. [프록시](https://github.com/Imaspear/WhatIsSpring/blob/main/2021/12월/26일/프록시.md)
 24. [summary](https://github.com/Imaspear/WhatIsSpring/blob/main/2021/12월/27일/summary.md)
-<!-- 25. [끝으로](https://github.com/Imaspear/WhatIsSpring/blob/main/2021/12월/27일/끝으로.md) -->
+<!-- 25. [끝으로](https://github.com/Imaspear/WhatIsSpring/blob/main/2021/12월/27일/끝으로.md)
 <!-- 26. [](https://github.com/Imaspear/WhatIsSpring/blob/main/2021/12월//) -->
 <!-- 27. [](https://github.com/Imaspear/WhatIsSpring/blob/main/2021/12월//) -->
 <!-- 28. [](https://github.com/Imaspear/WhatIsSpring/blob/main/2021/12월//) -->
